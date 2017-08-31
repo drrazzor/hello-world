@@ -1,3 +1,3 @@
 # hello-world
-my first gitub repo
+my first gitub repo;
 making some changes to the readme file.
